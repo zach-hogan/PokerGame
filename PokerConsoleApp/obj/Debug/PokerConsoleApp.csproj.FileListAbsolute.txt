@@ -1,0 +1,7 @@
+C:\Users\zhoga\source\repos\zach-hogan\PokerGame\PokerConsoleApp\bin\Debug\PokerConsoleApp.exe.config
+C:\Users\zhoga\source\repos\zach-hogan\PokerGame\PokerConsoleApp\bin\Debug\PokerConsoleApp.exe
+C:\Users\zhoga\source\repos\zach-hogan\PokerGame\PokerConsoleApp\bin\Debug\PokerConsoleApp.pdb
+C:\Users\zhoga\source\repos\zach-hogan\PokerGame\PokerConsoleApp\obj\Debug\PokerConsoleApp.csprojAssemblyReference.cache
+C:\Users\zhoga\source\repos\zach-hogan\PokerGame\PokerConsoleApp\obj\Debug\PokerConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\zhoga\source\repos\zach-hogan\PokerGame\PokerConsoleApp\obj\Debug\PokerConsoleApp.exe
+C:\Users\zhoga\source\repos\zach-hogan\PokerGame\PokerConsoleApp\obj\Debug\PokerConsoleApp.pdb
