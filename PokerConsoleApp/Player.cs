@@ -11,6 +11,7 @@ namespace PokerConsoleApp
         private Card card1;
         private Card card2;
         private Card[] hand;
+        private Boolean active;
 
         private int bigBlindStack;
         public Player(int BBStack)
@@ -42,6 +43,16 @@ namespace PokerConsoleApp
         public Card[] getHand()
         {
             return hand;
+        }
+
+        public Boolean getActive()
+        {
+            return active;
+        }
+
+        public void setActive(Boolean active)
+        {
+            this.active = active;
         }
 
         public void setHand()
